@@ -9,18 +9,18 @@
 
 ## Descripcion del proyecto
 La empresa ha diseñado una nueva campaña publicitaria (anuncio nuevo). Antes de gastar miles de dólares mostrando este anuncio a todo el mundo, necesitan comprobar si realmente funciona mejor que lo que ya tienen.
----
+
 
 ## Stack Tecnológico
 * **Lenguaje:** Python 3.14
-* **Librerías:** Pandas, Numpy, matplotlib, statsmodels, Seaborn
+* **Librerías:** Pandas, Numpy, Matplotlib, Statsmodels, Seaborn
 * **Entorno:** Visual Studio Code
 
 ---
 ## Enlace a la presentación.
 
 **Enlace Directo:** https://docs.google.com/presentation/d/15FofChjtZJQ5MZTFul7Hme7dSCjPtKGKnyp54nQqXsY/edit?usp=sharing
----
+
 
 ## Autor
 **Ronaldo Sierra Viloria**
